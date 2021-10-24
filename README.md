@@ -1,10 +1,11 @@
 # my noteics
 
--git 등록
- >git init
- >git remote add origin [url]
- >git add .
- >git commit -m "[url]"
+## -git 등록
+ ### >git init
+ ### >git remote add origin [url]
+ ### >git add .
+ ### >git commit -m "내용"
+ ### >git push origin master
 
 
 
