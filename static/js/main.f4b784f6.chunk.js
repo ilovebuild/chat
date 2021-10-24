@@ -1,2 +1,0 @@
-(this.webpackJsonpchat=this.webpackJsonpchat||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);c(1);var n=c(3),r=c.n(n),s=c(0);var h=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:"Hello!!"})})};r.a.render(Object(s.jsx)(h,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.f4b784f6.chunk.js.map
