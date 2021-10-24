@@ -1,3 +1,20 @@
+# my noteics
+
+-git 등록
+ >git init
+ >git remote add origin [url]
+ >git add .
+ >git commit -m "[url]"
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
